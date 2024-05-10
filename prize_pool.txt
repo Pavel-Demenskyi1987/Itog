@@ -1,0 +1,20 @@
+Prize: Teddy Bear
+Prize: Doll
+Prize: Teddy Bear
+Prize: Car
+Prize: Car
+Prize: Teddy Bear
+Prize: Doll
+Prize: Doll
+Prize: Teddy Bear
+Prize: Teddy Bear
+Prize: Teddy Bear
+Prize: Teddy Bear
+Prize: Teddy Bear
+Prize: Car
+Prize: Doll
+Prize: Doll
+Prize: Doll
+Prize: Teddy Bear
+Prize: Car
+Prize: Doll
